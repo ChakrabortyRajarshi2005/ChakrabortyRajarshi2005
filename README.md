@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/rajarshich75986" target="blank"><img src="https://img.shields.io/twitter/follow/rajarshich75986?logo=twitter&style=for-the-badge" alt="rajarshich75986" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** and **Blockchain Development**.
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning** and **Blockchain Development**.
 
 - 📫 How to reach me **rajarshichakraborty2005@gmail.com**
                     - **rajarshi29032005@gmail.com**
-                    -**+91 8001950250**
+   Mobile No. -**+91 8001950250**                 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
