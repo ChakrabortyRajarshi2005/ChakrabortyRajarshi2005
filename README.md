@@ -10,11 +10,12 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning** and **Blockchain Development**.
 
-- 📫 How to reach me **rajarshichakraborty2005@gmail.com**
-                    - **rajarshi29032005@gmail.com**
+- 📫 How to reach me : 1. Email : i> **rajarshichakraborty2005@gmail.com**
    <br>
-   Mobile No. - **+91 8001950250**  
-- ⚡ Fun fact **I love to drink black tea.**
+                                   ii>**rajarshi29032005@gmail.com**
+   <br>
+                        2. Mobile No. + Whatsapp - **+91 8001950250**  
+- ⚡ Fun fact **I Love To Drink Black Tea & Coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
