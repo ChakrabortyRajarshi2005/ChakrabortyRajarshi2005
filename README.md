@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : 1. Email : i> **rajarshichakraborty2005@gmail.com**
    <br>
-                                <h4>ii>**rajarshi29032005@gmail.com**</h4>
+  <div>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<p>ii></p><h4>rajarshi29032005@gmail.com</h4></div>         
    <br>
                         2. Mobile No. + Whatsapp - **+91 8001950250**  
 - ⚡ Fun fact **I Love To Drink Black Tea & Coffee.**
